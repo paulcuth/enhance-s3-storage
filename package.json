@@ -29,6 +29,7 @@
     }
   },
   "dependencies": {
+    "@architect/plugin-storage-public": "^1.0.2",
     "@enhance/arc-plugin-enhance": "^11.0.0",
     "@enhance/arc-plugin-styles": "^5.0.5",
     "@enhance/styles-cribsheet": "^0.0.11"
